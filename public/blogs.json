@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "cover_title": "Exploring the Future of AI",
+        "cover_img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDE2fHxqYXZhc2NyaXB0fGVufDB8fHx8MTY4Mzk5ODQyNg&ixlib=rb-1.2.1&q=80&w=800",
+        "author": "John Doe",
+        "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+        "posted_date": "September 4, 2024",
+        "reading_time": 5,
+        "hashtags": ["#AI", "#FutureTech", "#Innovation"]
+    },
+    {
+        "id": "2",
+        "cover_title": "Understanding JavaScript Closures",
+        "cover_img": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDcwfHxqYXZhc2NyaXB0fGVufDB8fHx8MTY4Mzk5ODQyNg&ixlib=rb-1.2.1&q=80&w=800",
+        "author": "Jane Smith",
+        "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+        "posted_date": "August 15, 2024",
+        "reading_time": 7,
+        "hashtags": ["#JavaScript", "#WebDevelopment", "#Coding"]
+    },
+    {
+        "id": "3",
+        "cover_title": "The Art of Minimalist Design",
+        "cover_img": "https://images.unsplash.com/photo-1521791136064-7986c2920216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDU0fHxqYXZhc2NyaXB0fGVufDB8fHx8MTY4Mzk5ODQyNg&ixlib=rb-1.2.1&q=80&w=800",
+        "author": "Emily Johnson",
+        "author_img": "https://randomuser.me/api/portraits/men/15.jpg",
+        "posted_date": "July 22, 2024",
+        "reading_time": 4,
+        "hashtags": ["#Design", "#Minimalism", "#Creativity"]
+    },
+    {
+        "id": "4",
+        "cover_title": "Mastering React Hooks",
+        "cover_img": "https://images.unsplash.com/photo-1536659622540-0b4c2331489c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEwfHxqYXZhc2NyaXB0fGVufDB8fHx8MTY4Mzk5ODQyNg&ixlib=rb-1.2.1&q=80&w=800",
+        "author": "Michael Brown",
+        "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
+        "posted_date": "June 10, 2024",
+        "reading_time": 6,
+        "hashtags": ["#ReactJS", "#Frontend", "#JavaScript"]
+    },
+    {
+        "id": "5",
+        "cover_title": "Top 10 Freelancing Tips for Success",
+        "cover_img": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDczfHxqYXZhc2NyaXB0fGVufDB8fHx8MTY4Mzk5ODQyNg&ixlib=rb-1.2.1&q=80&w=800",
+        "author": "Sophia Davis",
+        "author_img": "https://randomuser.me/api/portraits/men/83.jpg",
+        "posted_date": "May 5, 2024",
+        "reading_time": 8,
+        "hashtags": ["#Freelancing", "#Career", "#Success"]
+    }
+]
