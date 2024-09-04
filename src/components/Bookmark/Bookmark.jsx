@@ -1,4 +1,3 @@
-import React from 'react'
 import PropTypes from 'prop-types'
 
 const Bookmark = ({bookmark}) => {
@@ -10,6 +9,8 @@ const Bookmark = ({bookmark}) => {
   )
 }
 
-Bookmark.propTypes = {}
+Bookmark.propTypes = {
+    bookmark: PropTypes.object.isRequired
+}
 
 export default Bookmark
